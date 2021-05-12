@@ -16,7 +16,7 @@
     "express-session": "^1.15.6",
     "multer": "^1.4.1",
     "pug": "^2.0.3",
-    "swiper": "^4.5.0"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {},
   "description": ""
